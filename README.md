@@ -2,6 +2,8 @@
 
 This project is scraping the data from Amazon, Walmart and E-Bay websites which will be helpful to compare prices of the products. With the help of search field user will be able to search for any products this websites has to offer. On the intial load of this website it will display the products which were searched last.
 
+To see more details of products, on clicking the product name it will redirect the url to these websites in new tab.
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
